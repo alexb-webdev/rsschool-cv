@@ -9,6 +9,21 @@
 4. I have pure C programming skills and a little experience with JavaScript, I like Gitcracken. Also worked with embedded systems on Linux. At the moment I mostly work in VScode and Qt.
 
 5. I'll just post a problem with codewars.
+Task:(7 kyu) Friend or Foe?
+```
+ function friend(friends){
+  
+  let outputArr = [];
+
+  friends.forEach(item => {
+    if (item.length == 4) { 
+      outputArr.push(item) 
+    }
+  });
+
+  return outputArr;
+ }
+```
 
 6. At work, I used html, css, js to communicate with a web server on an ARM processor, but there were a couple of pages with little functionality.
 
