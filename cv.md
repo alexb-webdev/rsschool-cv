@@ -8,8 +8,8 @@
 
 4. I have experience in pure C programming and a little experience with JavaScript, I like Gitcracken as git GUI. Also worked with Linux in embedded systems. At the moment I mostly work in VScode and Qt.
 
-5. I'll just post a solution to a problem from Codewars.
-Task:(7 kyu) Friend or Foe?
+5. I'll just post a solution to a problem from [Codewars](https://www.codewars.com/).
+Task:(7 kyu) [Friend or Foe](https://www.codewars.com/kata/55b42574ff091733d900002f)?
 ```
  function friend(friends){
   
