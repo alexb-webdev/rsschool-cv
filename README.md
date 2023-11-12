@@ -2,3 +2,4 @@
 rsschool CV task
 
 [CV link](https://alexb-webdev.github.io/rsschool-cv/cv)
+[html CV link](https://alexb-webdev.github.io/rsschool-cv/)
