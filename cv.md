@@ -1,4 +1,4 @@
-------- Curriculum Vitae -------
+# Curriculum Vitae
 
 1. Alexander Bolm.
 
@@ -6,10 +6,10 @@
 
 3. I am currently working as an electronic engineer, so I think I can say that I have a technical mindset, at the moment I want to learn web development and maybe change my full-time job.
 
-4. I have experience in pure C programming and a little experience with JavaScript, I like Gitcracken as git GUI. Also worked with Linux in embedded systems. At the moment I mostly work in VScode and Qt.
+4. I have experience in **pure C** programming and a little experience with **HTML**, **CSS** and **JavaScript**, I like **Gitcracken** as git GUI. Also worked with **Linux** in embedded systems. At the moment I mostly work in **VScode** and **Qt**.
 
 5. I'll just post a solution to a problem from [Codewars](https://www.codewars.com/).
-Task:(7 kyu) [Friend or Foe](https://www.codewars.com/kata/55b42574ff091733d900002f)?
+[Task:(7 kyu) Friend or Foe](https://www.codewars.com/kata/55b42574ff091733d900002f)?
 ```
  function friend(friends){
   
