@@ -10,7 +10,8 @@
 
 5. I'll just post a solution to a problem from [Codewars](https://www.codewars.com/).
 [Task:(7 kyu) Friend or Foe](https://www.codewars.com/kata/55b42574ff091733d900002f)?
-```
+ ```
+
  function friend(friends){
   
   let outputArr = [];
@@ -23,7 +24,8 @@
 
   return outputArr;
  }
-```
+
+ ```
 
 6. At work, I used html, css, js to communicate with a web server on an ARM processor, but there were a couple of pages with little functionality.
 
